@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
       {
-        name: 'node-browserless', // application name 
+        name: 'node-browserjawaracodeless', // application name 
         script: 'index.js', // script path to pm2 start
         instances: 1, // number process of application
         autorestart: true, //auto restart if app crashes
