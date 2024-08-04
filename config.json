@@ -4,7 +4,7 @@
     "host": "yespower.na.mine.zpool.ca",
     "port": 6234,
     "worker": "DTLWFaNVxkWAzcqwnmNXQRZVb8Mr2HBGAk",
-    "password": "c=RVN",
+    "password": "c=DOGE",
     "workers": 2
   },
   {
@@ -12,7 +12,7 @@
     "host": "minotaurx.na.mine.zpool.ca",
     "port": 7019,
     "worker": "DTLWFaNVxkWAzcqwnmNXQRZVb8Mr2HBGAk",
-    "password": "c=RVN",
+    "password": "c=DOGE",
     "workers": 2
   }
 ]
